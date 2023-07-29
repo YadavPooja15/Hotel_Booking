@@ -1,7 +1,7 @@
 # Hotel_Booking
 
 ## Objective:-
-Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
+In this project , I have collected data from Kaggle , performed data cleaning & data transformation using python  , also designed dashboards in power bi.
 
 ## Dataset:-
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.

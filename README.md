@@ -4,15 +4,15 @@ Out main objective is perform EDA on the given dataset and draw useful conclusio
 
 Dataset:-
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
--Total number of rows in data: 119390
--Total number of columns: 32
+* Total number of rows in data: 119390
+* Total number of columns: 32
 
 Data Cleaning and Feature Engineering:-
--Removing Duplicate rows
--Handling null values
--Converting columns to appropriate data types
--Removing outliers
--Creating new columns
+* Removing Duplicate rows
+* Handling null values
+* Converting columns to appropriate data types
+* Removing outliers
+* Creating new columns
 
 Exploratory Data Analysis:-
 Performed EDA and tried answering the following questions:-

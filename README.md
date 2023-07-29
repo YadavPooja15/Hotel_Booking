@@ -7,15 +7,15 @@ We are given a hotel bookings dataset. This dataset contains booking information
 * Total number of rows in data: 119390
 * Total number of columns: 32
 
-Data Cleaning and Feature Engineering:-
+## Data Cleaning and Feature Engineering:-
 * Removing Duplicate rows
 * Handling null values
 * Converting columns to appropriate data types
 * Removing outliers
 * Creating new columns
 
-Exploratory Data Analysis:-
-Performed EDA and tried answering the following questions:-
+## Exploratory Data Analysis:-
+### Performed EDA and tried answering the following questions:-
  * Which agent makes the most no. of bookings?
  * Which room type is in most demand and which room type generatesthe  highest adr?
  * Which meal type isthe  most preffered meal of customers?
@@ -38,7 +38,7 @@ Performed EDA and tried answering the following questions:-
  * Does not alloting the  same room as demanded affect adr?
  * Which types of customers mostly make bookings?
 
-Analysis:-
+## Analysis:-
  * Agent no. 9 has made most no. of bookings.
  * Most demanded room type is A, but better adr generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
  * Most popular meal type is BB(Bed and Breakfast).
@@ -49,7 +49,7 @@ Analysis:-
  * Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
 
 
-Challenges:-
+## Challenges:-
  * There was a lot of duplicate data.
  * Data was present in wrong datatype format.
  * Choosing appropriate visualization techniques to use was difficult.

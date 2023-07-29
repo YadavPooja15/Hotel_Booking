@@ -16,43 +16,43 @@ Data Cleaning and Feature Engineering:-
 
 Exploratory Data Analysis:-
 Performed EDA and tried answering the following questions:-
- Q1) Which agent makes the most no. of bookings?
- Q2) Which room type is in most demand and which room type generatesthe  highest adr?
- Q3) Which meal type isthe  most preffered meal of customers?
- Q4) What isthe  percentage of bookings in each hotel?
- Q5) Which is the most common channel for booking hotels?
- Q6) Which are the most busy months?
- Q7) From which country most of the guests are comin ?
- Q8) How long do people stay at the hotels?
- Q9)  Which hotel seems to make more revenue?
- Q10)  Which hotel hasa  higher lead time?
- Q11)  What is preferred stay length in each hotel?
- Q12)  Which hotel has higher bookings cancellation rate.
- Q13)  Which hotel hasa  high chance that its customer will return for another stay?
- Q14)  Which channel is mostly used forthe  early booking of hotels?
- Q15)  Which channel hasa  longer average waiting time?
- Q16)  Which distribution channel brings betterrevenue-generatingg deals for hotels?
- Q17)  Which significant distribution channel has the highest cancellation percentage?
- Q18) Doesa  longer waiting period or longer lead time causes the cancellation of bookings?
- Q19) Whether not getting allotted the same room type as demand is the main cause of cancellation for bookings?
- Q20) Does not alloting the  same room as demanded affect adr? 
- Q21) Which types of customers mostly make bookings?
+ * Which agent makes the most no. of bookings?
+ * Which room type is in most demand and which room type generatesthe  highest adr?
+ * Which meal type isthe  most preffered meal of customers?
+ * What isthe  percentage of bookings in each hotel?
+ * Which is the most common channel for booking hotels?
+ * Which are the most busy months?
+ * From which country most of the guests are comin ?
+ * How long do people stay at the hotels?
+ * Which hotel seems to make more revenue?
+ * Which hotel hasa  higher lead time?
+ * What is preferred stay length in each hotel?
+ * Which hotel has higher bookings cancellation rate.
+ * Which hotel hasa  high chance that its customer will return for another stay?
+ * Which channel is mostly used forthe  early booking of hotels?
+ * Which channel hasa  longer average waiting time?
+ * Which distribution channel brings betterrevenue-generatingg deals for hotels?
+ * Which significant distribution channel has the highest cancellation percentage?
+ * Doesa  longer waiting period or longer lead time causes the cancellation of bookings?
+ * Whether not getting allotted the same room type as demand is the main cause of cancellation for bookings?
+ * Does not alloting the  same room as demanded affect adr?
+ * Which types of customers mostly make bookings?
 
 Analysis:-
- 1.) Agent no. 9 has made most no. of bookings.
- 2.) Most demanded room type is A, but better adr generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
- 3.) Most popular meal type is BB(Bed and Breakfast).
- 4.) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.
- 5.) Guests use different channels for making bookings out of which most preferred way is TA/TO.
- 6.) July- August are the most busier and profitable months for both of hotels. 
- 7.) Most of the guests came from european countries, with highest number of guests from Portugal.
- 8.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
+ * Agent no. 9 has made most no. of bookings.
+ * Most demanded room type is A, but better adr generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
+ * Most popular meal type is BB(Bed and Breakfast).
+ * Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.
+ * Guests use different channels for making bookings out of which most preferred way is TA/TO.
+ * July- August are the most busier and profitable months for both of hotels.
+ * Most of the guests came from european countries, with highest number of guests from Portugal.
+ * Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
 
 
- challenges:-
- (1) There was a lot of duplicate data.
-(2) Data was present in wrong datatype format.
-(3) Choosing appropriate visualization techniques to use was difficult.
-(4) A lot of null values were there in the dataset.
+Challenges:-
+ * There was a lot of duplicate data.
+ * Data was present in wrong datatype format.
+ * Choosing appropriate visualization techniques to use was difficult.
+ * A lot of null values were there in the dataset.
 
 
